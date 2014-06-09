@@ -1,0 +1,7 @@
+Примерни проекти писани на Python са:
+	https://github.com/Hackfmi/Diaphanum
+	https://github.com/HackBulgaria/Odin
+	https://github.com/mimipaskova/Zoo
+	https://github.com/mimipaskova/MailList
+	https://github.com/mimipaskova/The-Command-Line-Mailist
+	https://github.com/mimipaskova/HackBulgaria-Programming101
